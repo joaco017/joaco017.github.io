@@ -1,9 +1,9 @@
 <?php
   // Configuración de la base de datos
-  $db_host = 'localhost';
-  $db_username = 'joaco017';
-  $db_password = '1234';
-  $db_name = 'baseqwert';
+  $db_host = 'a84935b9-4f17-4063-8ac7-57543aaa0bc9';
+  $db_username = 'production';
+  $db_password = '58316126-b5a3-4d0d-9ad6-173d54195cb3';
+  $db_name = 'earnest-nourishment';
 
   // Conectar a la base de datos
   $conn = new mysqli($db_host, $db_username, $db_password, $db_name);
